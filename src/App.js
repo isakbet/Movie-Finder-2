@@ -14,7 +14,7 @@ const App = () => {
     <Router>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <Link className="navbar-brand" to="/">
-          Movie Finder
+          Movie Finder 2
         </Link>
       </nav>
       <Switch>
